@@ -1,0 +1,40 @@
+.flex{
+    display: flex;
+}
+.bgfff{
+    background-color: #fff;
+}
+.colorfff{
+    color: #fff;
+}
+.color88{
+    color:#888888
+}
+h2 {
+    color: #515769;
+}
+h3 {
+    color: #515769;
+}
+.font_12{
+    font-size: 12px;
+}
+
+.font_14{
+    font-size: 14px;
+}
+.font_w{
+    font-weight: 600;
+}
+.margin_b_30{
+    margin-bottom: 30px;
+}
+.margin_b_60{
+    margin-bottom: 60px;
+}
+.pad_t_30{
+    padding-bottom: 30px;
+}
+.bgfa {
+    background: #fafafa;
+}
